@@ -35,3 +35,7 @@ At a high level, there’s a Targets and Overview section. Each section contains
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/progressbar.png "Logo Title Text 1")
 
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/piechart.png "Logo Title Text 1")
+
+# Billing
+
+We can easily take care of billing on this website:
