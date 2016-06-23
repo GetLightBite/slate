@@ -13,44 +13,31 @@ search: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to KaleKam! Below is all the information you need to know to get your clients up and started with the KaleKam app. Our goal is to deliver the key information you and your clients need to know to deliver health results.
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+Skim through these docs to understand how we can customize the experience for each one of your clients. 
 
-This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+Let's go!
 
-# Authentication
+# Stats Dashboard
 
-Kittn uses API keys to allow access to the API. You can register a new Kittn API key at our [developer portal](http://example.com/developers).
+## Overview
 
-Kittn expects for the API key to be included in all API requests to the server in a header that looks like the following:
+This screen shows key nutritional stats for a single meal or entire day. The dashboard is a fully customizable screen that let’s you specify what stats matter for each client. 
 
-`Authorization: meowmeowmeow`
+At a high level, there’s a Targets and Overview section. Each section contains various widgets that help visualize clients’ daily intake. 
 
-<aside class="notice">
-You must replace <code>meowmeowmeow</code> with your personal API key.
-</aside>
+![alt text](https://s3.amazonaws.com/kalekamonboarding/sections.png "Logo Title Text 1")
 
-# Kittens
+## Widgets
 
-## Get All Kittens
+![alt text](https://s3.amazonaws.com/kalekamonboarding/number.png "Logo Title Text 1")
 
-This endpoint retrieves all kittens.
+![alt text](https://s3.amazonaws.com/kalekamonboarding/speedometer.png "Logo Title Text 1")
 
-### HTTP Request
+![alt text](https://s3.amazonaws.com/kalekamonboarding/progressbar.png "Logo Title Text 1")
 
-`GET http://example.com/api/kittens`
-
-### Query Parameters
-
-Parameter | Default | Description
---------- | ------- | -----------
-include_cats | false | If set to true, the result will also include cats.
-available | true | If set to false, the result will include kittens that have already been adopted.
-
-<aside class="success">
-Remember — a happy kitten is an authenticated kitten!
-</aside>
+![alt text](https://s3.amazonaws.com/kalekamonboarding/piechart.png "Logo Title Text 1")
 
 ## Get a Specific Kitten
 
