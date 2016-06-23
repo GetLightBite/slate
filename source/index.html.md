@@ -5,9 +5,6 @@ toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
-includes:
-  - errors
-
 search: true
 ---
 
@@ -38,20 +35,3 @@ At a high level, there’s a Targets and Overview section. Each section contains
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/progressbar.png "Logo Title Text 1")
 
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/piechart.png "Logo Title Text 1")
-
-## Get a Specific Kitten
-
-This endpoint retrieves a specific kitten.
-
-<aside class="warning">Inside HTML code blocks like this one, you can't use Markdown, so use <code>&lt;code&gt;</code> blocks to denote code.</aside>
-
-### HTTP Request
-
-`GET http://example.com/kittens/<ID>`
-
-### URL Parameters
-
-Parameter | Description
---------- | -----------
-ID | The ID of the kitten to retrieve
-
