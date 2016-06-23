@@ -22,6 +22,12 @@ At a high level, there’s a Targets and Overview section. Each section contains
 
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/sections.png "Logo Title Text 1")
 
+## Setup
+
+Use the Google Doc link we sent you to specify what stats to show each client. For example:
+
+<aside class="warning">If you haven't received a link, shoot us a note to get you up going ASAP.</aside>
+
 ## Widgets
 
 ![alt text](https://s3.amazonaws.com/kalekamonboarding/number.png "Logo Title Text 1")
